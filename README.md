@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **Hemanth Kumar M**, a B.E. AI & ML student at New Horizon College of Engineering, Bangalore (CGPA: 9.06). I build things at the intersection of **machine learning**, **graph neural networks**, and **real-world problem solving** — from detecting UPI fraud to making cities smarter with data.
+Hey! I'm **Hemanth**, a  AI & ML student I build things at the intersection of **machine learning**, **graph neural networks**, and **real-world problem solving** — from detecting UPI fraud to making cities smarter with data.
 
 I love working on problems that actually matter. Whether it's catching financial fraud before it happens or helping city planners make better decisions, I'm all about using AI where it counts.
 
