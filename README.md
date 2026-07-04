@@ -10,7 +10,7 @@
 
 I'm **Hemanth**, a  AI & ML student I build things at the intersection of **machine learning**, **graph neural networks**, and **real-world problem solving** — from detecting UPI fraud to making cities smarter with data.
 
-I love working on problems that actually matter. And which makes me explore domains that im intrested in and also give a practical understanding of that particular domain .
+I love working on problems that actually matter,And which makes me explore domains that im intrested in and also give a practical understanding of that particular domain .
 
 
 
@@ -24,7 +24,7 @@ I love working on problems that actually matter. And which makes me explore doma
 - Built a graph where **nodes = users/merchants** and **edges = transactions**
 - Leveraging **PyTorch Geometric** to train GNN models that learn suspicious behavioral patterns
 - Tackling class imbalance, dynamic graph updates, and real-world noise in financial data
-- Goal: Flag fraudulent transactions **before** they complete
+  
 
 ### 🏙️ Urban Traffic Planning AI
 > A data-driven system that helps city planners analyze and optimize traffic flow across Bangalore.
@@ -32,7 +32,7 @@ I love working on problems that actually matter. And which makes me explore doma
 - Integrates **geospatial data** with ML models to predict congestion hotspots
 - Uses multiple AI agents to score incident probability and suggest routing decisions
 - Generates automated explanations for **drivers, engineers, and city regulators**
-- Built with Python, Pandas, and real urban dataset pipelines
+  
 
 ---
 
@@ -81,7 +81,7 @@ I love working on problems that actually matter. And which makes me explore doma
 
 <div align="center">
 
-*"Data is not just numbers — it's the story of the world waiting to be told."*
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
 
