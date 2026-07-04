@@ -8,9 +8,9 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **Hemanth**, a  AI & ML student I build things at the intersection of **machine learning**, **graph neural networks**, and **real-world problem solving** — from detecting UPI fraud to making cities smarter with data.
+I'm **Hemanth**, a  AI & ML student I build things at the intersection of **machine learning**, **graph neural networks**, and **real-world problem solving** — from detecting UPI fraud to making cities smarter with data.
 
-I love working on problems that actually matter. Whether it's catching financial fraud before it happens or helping city planners make better decisions, I'm all about using AI where it counts.
+I love working on problems that actually matter. And which makes me explore domains that im intrested in and also give a practical understanding of that particular domain .
 
 
 
@@ -73,7 +73,6 @@ I love working on problems that actually matter. Whether it's catching financial
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hemanth7022-181717?style=for-the-badge&logo=github)](https://github.com/Hemanth7022)
 [![Email](https://img.shields.io/badge/Email-hemanth2005hk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemanth2005hk@gmail.com)
 
 </div>
