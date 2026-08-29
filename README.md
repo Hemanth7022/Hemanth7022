@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Hemanth**, a  AI & ML student I build things at the intersection of **machine learning**, **graph neural networks**, and **real-world problem solving** — from detecting UPI fraud to making cities smarter with data.
+I'm **Hemanth**, a  AI & ML student I build things at the intersection of **machine learning**, **graph neural networks**, and **real-world problem solving** , from detecting UPI fraud to making cities smarter with data.
 
 I love working on problems that actually matter,And which makes me explore domains that im intrested in and also give a practical understanding of that particular domain .
 
